@@ -72,28 +72,28 @@ This guide categorizes leading commercial enterprise SaaS platforms (such as *Zy
 
 ## 🔓 Open-Source GitHub Projects 🚀
 
-*Sorted by GitHub Stars Count (Descending)* 🌟
+*Sorted by GitHub_Stars_Count (Descending)* 🌟
 
 - **[Lago](https://github.com/getlago/lago)** [![Stars](https://img.shields.io/github/stars/getlago/lago?style=social&color=white)](https://github.com/getlago/lago/stargazers)  
-  **Open-source metering and usage-based billing platform**, AGPL-3.0 licensed. **6.2k+ GitHub stars**. Flexible architecture supporting subscription plans, usage-based metering, hybrid pricing, REST APIs, and native Stripe/Adyen billing integrations. 🦭
+  **Open-source metering and usage-based billing platform**, AGPL-3.0 licensed. **6.2k+ GitHub_Stars**. Flexible architecture supporting subscription plans, usage-based metering, hybrid pricing, REST APIs, and native Stripe/Adyen billing integrations. 🦭
 
 - **[Wallos](https://github.com/ellite/Wallos)** [![Stars](https://img.shields.io/github/stars/ellite/Wallos?style=social&color=white)](https://github.com/ellite/Wallos/stargazers)  
-  **Open-source personal & SMB subscription tracker**, GPL-3.0 licensed. **5.8k+ GitHub stars**. Features multi-currency support (40+ currencies), automatic exchange rate conversion, email renewal alerts, spending category analytics, and lightweight Docker container setup. 📊
+  **Open-source personal & SMB subscription tracker**, GPL-3.0 licensed. **5.8k+ GitHub_Stars**. Features multi-currency support (40+ currencies), automatic exchange rate conversion, email renewal alerts, spending category analytics, and lightweight Docker container setup. 📊
 
 - **[Kill Bill](https://github.com/killbill/killbill)** [![Stars](https://img.shields.io/github/stars/killbill/killbill?style=social&color=white)](https://github.com/killbill/killbill/stargazers)  
-  **Enterprise open-source subscription billing & payment platform**, Apache-2.0 licensed. **5.1k+ GitHub stars**. Java-based pluggable engine for subscription lifecycle management, recurring invoices, complex catalog rules, and gateway integrations. 💰
+  **Enterprise open-source subscription billing & payment platform**, Apache-2.0 licensed. **5.1k+ GitHub_Stars**. Java-based pluggable engine for subscription lifecycle management, recurring invoices, complex catalog rules, and gateway integrations. 💰
 
 - **[InvoicePlane](https://github.com/InvoicePlane/InvoicePlane)** [![Stars](https://img.shields.io/github/stars/InvoicePlane/InvoicePlane?style=social&color=white)](https://github.com/InvoicePlane/InvoicePlane/stargazers)  
-  **Open-source client invoicing & recurring subscription system**, MIT licensed. **2.7k+ GitHub stars**. PHP-based self-hosted application for managing customer subscriptions, generating automated recurring invoices, and tracking payments. 📄
+  **Open-source client invoicing & recurring subscription system**, MIT licensed. **2.7k+ GitHub_Stars**. PHP-based self-hosted application for managing customer subscriptions, generating automated recurring invoices, and tracking payments. 📄
 
 - **[SubTrackr](https://github.com/Ashfaaq98/SubTrackr)** [![Stars](https://img.shields.io/github/stars/Ashfaaq98/SubTrackr?style=social&color=white)](https://github.com/Ashfaaq98/SubTrackr/stargazers)  
-  **Go-based subscription & expense tracking REST API**, MIT licensed. **320+ GitHub stars**. Developer-focused microservice featuring JWT authentication, full CRUD operations for recurring expenses, PostgreSQL backend, and Docker deployment. 🔧
+  **Go-based subscription & expense tracking REST API**, MIT licensed. **320+ GitHub_Stars**. Developer-focused microservice featuring JWT authentication, full CRUD operations for recurring expenses, PostgreSQL backend, and Docker deployment. 🔧
 
 - **[Subscriptions Manager](https://github.com/bmuschko/subscriptions-manager)** [![Stars](https://img.shields.io/github/stars/bmuschko/subscriptions-manager?style=social&color=white)](https://github.com/bmuschko/subscriptions-manager/stargazers)  
-  **CLI tool to keep track of software subscriptions**, Apache-2.0 licensed. **180+ GitHub stars**. Lightweight command-line application built in Go for developer-centric subscription inventory and cost tracking. 🖥️
+  **CLI tool to keep track of software subscriptions**, Apache-2.0 licensed. **180+ GitHub_Stars**. Lightweight command-line application built in Go for developer-centric subscription inventory and cost tracking. 🖥️
 
 - **[subtracker](https://github.com/markdouthwaite/subtracker)** [![Stars](https://img.shields.io/github/stars/markdouthwaite/subtracker?style=social&color=white)](https://github.com/markdouthwaite/subtracker/stargazers)  
-  **Minimalist subscription tracking utility**, MIT licensed. **95+ GitHub stars**. Focused open-source utility for managing recurring personal and cloud software expenses cleanly via terminal interface. 📋
+  **Minimalist subscription tracking utility**, MIT licensed. **95+ GitHub_Stars**. Focused open-source utility for managing recurring personal and cloud software expenses cleanly via terminal interface. 📋
 
 ---
 
@@ -103,7 +103,7 @@ Contributions are welcome! Follow these steps to submit new subscription managem
 
 1. 🍴 **Fork** the repository.
 2. 📝 **Add/edit** entries in `README.md` maintaining table/list structure and formatting.
-3. 🔗 Include project title, official website/GitHub link, exact Stars Count, license, and brief description.
+3. 🔗 Include project title, official website/GitHub link, exact Stars_Count, license, and brief description.
 4. 🚀 Submit a **Pull Request** with a descriptive summary of your changes.
 
 ---
